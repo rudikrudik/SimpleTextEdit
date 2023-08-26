@@ -4,7 +4,7 @@ from ttkbootstrap import Style
 from ttkbootstrap.dialogs.dialogs import Messagebox
 from ttkbootstrap.constants import *
 from tkinter.filedialog import askopenfilename
-from File import DataFile
+from file import DataFile
 
 
 class SimpleTextEdit(tkinter.Tk):
